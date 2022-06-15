@@ -1,0 +1,24 @@
+.mobile{
+    background-image: url('image/mobile1.jpg');
+    height: 600px;
+    width: 612px;
+    margin-top: -58px;
+   
+}
+
+.play-stop{
+    margin-top: 3px;
+}
+
+.margin{
+    
+    border-radius: 50%;
+    height: 28px;
+
+}
+
+.lap{
+    border-radius: 50%;
+    margin-top: 5px;
+}
+
